@@ -1,0 +1,19 @@
+.bottleDiv img{
+
+width: 200px;
+height: 200px;
+
+}
+
+.bottleDiv{
+    border: 2px solid red;
+    padding: 20px;
+    margin:10px;
+    border-radius: 20px;
+}
+
+.bg-color{
+    background-color: burlywood;
+    color: black;
+    
+}
